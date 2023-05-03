@@ -2,7 +2,7 @@
 for IS843 class
 
 
-**Group B8** (alphabetical order)
+**Group 8** (alphabetical order)
 - Scott Bardwell
 - Yiwen Fan
 - Yicheng Jiang
